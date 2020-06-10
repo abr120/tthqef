@@ -1,0 +1,52 @@
+[
+ {
+     "title":"معلومات عامة",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/001.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPXXVPoZOkLPswVyBRyfoyi0"
+    ]
+  },
+  {
+
+
+    "title":" علوم",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/002.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPXHDoRrmaNxRzr5jB2co-RC"
+    ]
+  },
+      {
+  "title":"تاريخ  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/003.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPXw31H8AgfasNatMtNHyMxP"
+    ]
+  },
+      {
+  "title":"جغرافيا",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/004.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPVldH7uqJRGEeoOxy5hKQnu"
+    ]
+  },
+      {
+  "title":"لغات  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/005.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPW4ialTGL7K-tec4tRr3b0m"
+    ]
+  },
+      {
+  "title":"لاهوت  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/tthqef/master/006.jpg",
+    "arguments":[
+      "PLhXV7ZpWodPWifBISS7MaH14QboG2f5Or"
+    ]
+  }
+]
